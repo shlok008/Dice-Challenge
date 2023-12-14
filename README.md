@@ -1,1 +1,2 @@
-# Dice-Challenge
+Dice-Challenge
+A simple dice game.
